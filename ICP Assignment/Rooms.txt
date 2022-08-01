@@ -1,0 +1,10 @@
+101||Superior||180||OPEN
+102||Deluxe||200||OPEN
+103||Studio||250||OPEN
+104||Executive Suite||400||OPEN
+105||Deluxe Suite||500||OPEN
+201||Superior||180||OPEN
+202||Deluxe||200||OPEN
+203||Studio||250||OPEN
+204||Executive Suite||400||OPEN
+205||Deluxe Suite||500||OPEN
